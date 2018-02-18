@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MMA8452Q-breakout)(type KiCad)(uri "$(KIPRJMOD)/MMA8452Q-breakout.pretty")(options "")(descr ""))
+)
